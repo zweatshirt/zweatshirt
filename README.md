@@ -1,4 +1,4 @@
-### Hi there 👋
+### Howdy 👋
 
 - 🔭 I’m currently working on a bible reading app since there are issues with other apps.
 - 🌱 I’m currently learning about genomics.
