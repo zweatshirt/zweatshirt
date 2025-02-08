@@ -1,5 +1,5 @@
 ### Howdy 👋
-- Working on [Cowdown](https://cowdown.net/) in Rust. Learning C++ and Ruby.
+- Working on [Cowdown](https://cowdown.net/) in Rust. Learning C++ and Ruby. Aiding in research at SIUE.
 - 🔭 Previous mobile development intern @ Cru, and previous XR dev @ Center for Crime Science and Violence Prevention.
 - 👯 I’m looking to collaborate on anything involving full stack web or mobile development.
 - 📫 How to reach me: zach7307@gmail.com
