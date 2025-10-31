@@ -1,4 +1,4 @@
 ### Howdy 👋
 - 🔭 Currently an entry web dev @ Cru.
-- Current personal project: [Extensive KJV bible reader](https://bible-project-frontend.onrender.com)
+- Current personal project: [Daily Bread](dailybread.love)
 - ⚡ Fun fact: I love Jesus!
